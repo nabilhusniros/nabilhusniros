@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm a young person (not that young) who wants to be a software engineer in the future, and I want to be able to read and write code. I want to be able to make things that are useful and beautiful, for people all over the world.
+I love writing code. I'm currently working to be a Frontend Developer, and that's the type of work I want to do in my career.
+
+I'm interested in making beautiful and functional websites and applications because that's what makes me most excited. I would love to make a difference in the world of technology by using my skills to help businesses grow
 
 
 # 💻 Tech Stack:
